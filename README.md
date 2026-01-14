@@ -1,0 +1,1 @@
+# Diploma_work_-Development-of-a-classification-system-for-skin-diseases-with-CNN
